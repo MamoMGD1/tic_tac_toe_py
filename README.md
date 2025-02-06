@@ -27,11 +27,11 @@ While training isn't required, it has some advantages:
 ## 🎮 How to Play
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ai-tic-tac-toe.git
+   git clone https://github.com/MamoMGD1/tic-tac-toe.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd ai-tic-tac-toe
+   cd tic-tac-toe
    ```
 3. Run the game:
    ```sh
