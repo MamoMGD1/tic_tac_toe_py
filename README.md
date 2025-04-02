@@ -24,23 +24,6 @@ While training isn't required, it has some advantages:
 
 ---
 
-## 🎮 How to Play
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/MamoMGD1/tic-tac-toe.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd tic-tac-toe
-   ```
-3. Run the game:
-   ```sh
-   python main.py
-   ```
-4. Play against the AI and try to win! 😈
-
----
-
 ## 🧠 How AI Makes Decisions
 - The AI **evaluates all possible moves** using Minimax.
 - It assigns a score to each move based on **winning, losing, or drawing**.
